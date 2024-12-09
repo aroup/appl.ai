@@ -10,7 +10,7 @@ Demo of appl.ai in action: [Demo](https://www.loom.com/share/3bc97ef8b71447fa9f8
 
 Live Website link: [Hosted Demo](https://shorturl.at/E3jbO)
 
-![Workflow](image.png)
+![Workflow](image.jpeg)
 
 
 ### Notebook:
